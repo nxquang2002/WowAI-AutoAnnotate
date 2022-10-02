@@ -5,3 +5,4 @@ opencv-python==4.6.0.66
 setuptools==59.5.0
 Flask==2.1.2
 gunicorn==20.1.0
+-e ./detectron2/detectron2-0.6-cp39-cp39-linux_x86_64.whl
