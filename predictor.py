@@ -6,8 +6,8 @@ from detectron2.utils.visualizer import ColorMode, Visualizer
 
 from detectron2.config import get_cfg
 
-# CONFIG_FILE = './configs/fcos/fcos_imprv_R_101_FPN.yaml'
-CONFIG_FILE = './configs/fcos/fcos_imprv_R_101_FPN_cpu.yaml'
+# CONFIG_FILE = './configs/fcos/fcos_imprv_R_101_FPN_cpu.yaml'
+CONFIG_FILE = './configs/fcos/fcos_imprv_R_101_FPN.yaml'
 CONFIDENCE_THRESHOLD = 0.5
 
 def setup_cfg():
